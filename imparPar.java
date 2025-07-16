@@ -2,7 +2,7 @@ package meuprojetojava;
 
 import java.util.Scanner;
 
-public class Firstcode {
+public class imparPar {
 
     public static void main(String[] args) {
 
